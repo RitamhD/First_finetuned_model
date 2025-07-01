@@ -72,5 +72,3 @@ Open an issue or reach out for help!
 
 **You can copy and adapt this for your project’s README.  
 It highlights your dataset and the unique Jarvis robot personality you’ve trained!**
-
-[1] https://huggingface.co/datasets/fotiecodes/jarvis-llama2-dataset
