@@ -1,0 +1,38 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "jarvis-llama2-dataset",
+  "dataset_size": 38623,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/fotiecodes/jarvis-llama2-dataset@8e59d8ebe825853f91f119c45739da5f6bc3d12a/data/train-00000-of-00001.parquet": {
+      "num_bytes": 16686,
+      "checksum": null
+    }
+  },
+  "download_size": 16686,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 55309,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 38623,
+      "num_examples": 230,
+      "dataset_name": "jarvis-llama2-dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
